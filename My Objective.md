@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Objective
-permalink: My Objective
+permalink: My objective
 ---
 
 I am passionate about improving my programming skills and expanding my knowledge base. While I am still in the process of mastering the intricacies of the field, my inherent ability to learn quickly fuels my desire to contribute to a dynamic work environment.
