@@ -22,8 +22,8 @@ nav-menu:
   permalink: about
 - text: Education
   permalink: education
-- text: Blog
-  permalink: blog
+- text: My Objective
+  permalink: My objective
 
 # use false to turn off any social media links
 twitter: false
