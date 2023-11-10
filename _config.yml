@@ -12,7 +12,7 @@ theme-color: green # indigo|yellow|pink|green|stone|
 # homepage information
 author: Oak Garelik Grangé
 author-bio: Computer Engineering student at the Polytechnic Faculty of the National University of Asunción  # change to false to hide
-author-image: Pup.jpg  # file must be in the /assets/img/ folder
+author-image: Pup.jpg {:height="50px" width="50px" .callout}</a> # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
