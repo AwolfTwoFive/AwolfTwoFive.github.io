@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: about
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+Hello, I'm Oak Garelik, a 18-year-old aspiring computer engineer with a fervor for creating inventive solutions. Currently pursuing my degree in Computer Engineering at the Polytechnic Faculty of the National University of Asunción, I am in my first semester, actively honing my programming skills, particularly in Python.
+
+I am proud to bring a dynamic set of skills and a commitment to excellence. If you are interested in learning more about my capabilities, please feel free to [Download my Resume](./assets/img/Resumes/Resumen%20Ivan%20Weiss%20Van%20Der%20Pol%2003072023.pdf){:target="_blank"}. I am eager to contribute my passion and expertise to innovative projects and collaborative teams. Let's connect and explore the possibilities!"
 
 ## Profile Image
 
