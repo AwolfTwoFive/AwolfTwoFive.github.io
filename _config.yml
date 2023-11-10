@@ -18,12 +18,12 @@ author-image: gray_wolf_games_-_logo.png  # file must be in the /assets/img/ fol
 show-nav-menu: true
 
 nav-menu:
-- text: About Me
-  permalink: About Me
+- text: About
+  permalink: About
 - text: Education
   permalink: Education
-- text: My Objective
-  permalink: My Objective
+- text: My objective
+  permalink: My objective
 
 # use false to turn off any social media links
 twitter: false
