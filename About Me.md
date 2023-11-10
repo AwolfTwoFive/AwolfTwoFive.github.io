@@ -4,7 +4,7 @@ title: About Me
 permalink: about
 ---
 
-<img src="assets/img/bugcat face.jpeg">
+<img src="assets/img/bugcat face cortadito.jpeg">
 
 Hello, I'm Oak Garelik, a 18-year-old aspiring computer engineer with a fervor for creating inventive solutions. Currently pursuing my degree in Computer Engineering at the Polytechnic Faculty of the National University of Asunción, I am in my first semester, actively honing my programming skills, particularly in Python.
 
