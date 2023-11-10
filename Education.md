@@ -5,6 +5,8 @@ permalink: education
 ---
 Greetings, I'm Oak Garelik, embarking on a transformative educational journey as a computer engineering student at the Polytechnic Faculty of the National University of Asunción.
 
+<img src="assets/img/bugcat face cortadito.jpeg">
+
 ## Where am i studying
 
 ### COMPUTER ENGINEERING AT THE FP-UNA<a href="https://www.pol.una.py//" rel="some text">![img](assets/img/logos/fpuna_logo_institucional.svg){:height="100px" width="100px" .callout}</a>
