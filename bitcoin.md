@@ -1,17 +1,20 @@
 ---
 layout: page
-title: Bitcoin History
-permalink: bitcoin
+title: Education
+permalink: education
 ---
+Greetings, I'm Oak Garelik, embarking on a transformative educational journey as a computer engineering student at the Polytechnic Faculty of the National University of Asunción.
 
-> Bitcoin (₿) is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. The cryptocurrency was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. - Wikipedia
+"Feel free to take a stroll through my academic journey up to this point!"
 
-The following two images are all uploaded to Github issue - the first one is inserted using Markdown and the second one is inserted using HTML - either way is fine although I think HTML way gives you more control such as width, style, etc. 
+## Where i've studied
 
-![dmitry-demidko-OG3A-ilG8AY-unsplash](https://user-images.githubusercontent.com/595772/149054244-43d31a99-8794-4bc6-8dee-4a02ef322f10.jpeg)
+### COMPUTER ENGINEERING AT THE FP-UNA<a href="https://www.pol.una.py//" rel="some text">![img](assets/img/logos/fpuna_logo_institucional.svg){:height="50px" width="50px" .callout}</a> 
 
-Photo by <a href="https://unsplash.com/@wildbook?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitry Demidko</a> on <a href="https://unsplash.com/s/photos/bitcoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+ I'm pursuing my passion for technology by earning a Bachelor's degree in Computer Science. During my studies, I gained a solid foundation in computer programming, algorithms, data structures, and software development. The program equipped me with the necessary skills to analyze complex problems, design efficient solutions, and develop robust software applications. I had the opportunity to work on various projects, collaborate with classmates, and learn from experienced professors.
+### STUDY ABROAD PROGRAM IN WICHITA, KANSAS <a href="https://www.wichita.edu/" rel="some text">![img](assets/img/logos/WSU_vertical_logo_transparent.png){:height="100px" width="100px" .callout}</a>
 
-<img class="mx-auto shadow rounded w-3/4" src="https://user-images.githubusercontent.com/595772/150048945-762ad471-2bc3-424d-91ab-a501a7e8662d.jpeg">
+ i had the oportunity to study in the USA with a scholarship offered by BECAL. douring my stay in the Wichita State University i practiced my english to perfection. in the usa i participated in many events and even got to the second phase of a business competition with my idea for an automated reforestation rover 
 
-Photo by <a href="https://unsplash.com/@jeremybezanger?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Bezanger</a> on <a href="https://unsplash.com/s/photos/bitcoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+ youtube presentation ->
+<a href="https://youtu.be/J051XxNL2iM" rel="some text">![img](assets/img/logos/botanicBuddyLogo.png){:height="50px" width="50px" .callout}</a>
