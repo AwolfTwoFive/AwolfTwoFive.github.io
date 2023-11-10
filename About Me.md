@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: about
+permalink: About Me
 ---
 
 <img src="assets/img/bugcat face cortadito.jpeg">
