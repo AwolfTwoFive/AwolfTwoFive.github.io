@@ -19,11 +19,11 @@ show-nav-menu: true
 
 nav-menu:
 - text: About Me
-  permalink: about
+  permalink: About Me
 - text: Education
-  permalink: education
+  permalink: Education
 - text: My Objective
-  permalink: My objective
+  permalink: My Objective
 
 # use false to turn off any social media links
 twitter: false
