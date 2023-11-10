@@ -7,11 +7,11 @@ title: "Tailpages: Tailwind + Github Pages"
 description: A Github Pages (Jekyll) template based on TailwindCSS
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
+author: Oak Garelik
+author-bio: Computer Engineering student at the Polytechnic Faculty of the National University of Asunción  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
