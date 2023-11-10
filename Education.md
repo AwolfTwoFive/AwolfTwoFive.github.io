@@ -3,7 +3,7 @@ layout: page
 title: Education
 permalink: Education
 ---
-Greetings, I'm Oak Garelik, embarking on a transformative educational journey as a computer engineering student at the Polytechnic Faculty of the National University of Asunción.
+Greetings, I’m Oak Garelik, embarking on a transformative educational journey as a computer engineering student. I look forward to exploring the fascinating world of computer engineering and embracing the opportunities it brings.
 
 <img src="assets/img/yo en clase.jpeg">
 
