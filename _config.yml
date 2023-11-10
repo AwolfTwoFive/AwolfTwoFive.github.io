@@ -1,13 +1,13 @@
 # change the followings to match your Github username and repo name
 baseurl: "" # the name of your github repo
-url: "https://harrywang.github.io" # the url of your github pages
+url: "https://awolftwofive.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
+title: "Oak Garelik Grangé - Portfolio"
 description: A Github Pages (Jekyll) template based on TailwindCSS
 
 # color theme for links
-theme-color: stone # indigo|yellow|pink|green|stone|
+theme-color: green # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Oak Garelik Grangé
