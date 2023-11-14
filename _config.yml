@@ -13,7 +13,7 @@ theme-color: pink # indigo|yellow|pink|green|stone|
 author: Oak Garelik Grangé
 author-bio: Computer Engineering student at the Polytechnic Faculty of the National University of Asunción  # change to false to hide
 author-image: gray_wolf_games_-_logo.png  # file must be in the /assets/img/ folder
-author-image-size: 600px  # ajusta el tamaño según tus necesidades
+author-image-size: 2600px  # ajusta el tamaño según tus necesidades
 
 # navigation menu
 show-nav-menu: true
