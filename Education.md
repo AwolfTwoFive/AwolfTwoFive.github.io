@@ -5,7 +5,7 @@ permalink: Education
 ---
 Greetings, I’m Oak Garelik, embarking on a transformative educational journey as a computer engineering student. I look forward to exploring the fascinating world of computer engineering and embracing the opportunities it brings.
 
-<img src="assets/img/yo en clase.jpeg" alt="Oak in class" width="980" height="450" >
+<img src="assets/img/yo en clase.jpeg" alt="Oak in class" width="900" height="300" >
 
 ## Where am i studying
 
