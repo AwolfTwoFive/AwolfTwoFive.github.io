@@ -16,4 +16,4 @@ permalink: certifications
 
 #### OTHER
 
-- [Selenium Essential Training](assets\img\Certifications\CertificateOfCompletion_Selenium_Essential_Training.pdf)
+- [Computer tTechnician](assets/Certificados/Certificado Técnico de Computacion-OakGarelikGrangé.pdf)
