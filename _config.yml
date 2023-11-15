@@ -23,6 +23,8 @@ nav-menu:
   permalink: About
 - text: Education
   permalink: Education
+- text: Certifications
+  permalink: certifications
 - text: My objective
   permalink: My objective
 
