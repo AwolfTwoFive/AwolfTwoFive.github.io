@@ -7,24 +7,12 @@ permalink: certifications
 
 ### HUMAN LANGUAGES
 
-- [English Proficiency Certification](assets\img\Certifications\English_Score_Certificate_Ivan.pdf)
+- [English Proficiency Certification](assets/Certificados/Certificado EF-SET-C2-OakGarelikGrangé.pdf)
 
-### LinkedIn Learning
 
-#### linkedIn Learning Paths
+### WEB DEVELOPMENT
 
-- [Become a Software Developer](assets\img\Certifications\CertificateOfCompletion_Become_a_Software_Developer.pdf)
-- [Career Essentials in Software Development by Microsoft and LinkedIn](assets\img\Certifications\CertificateOfCompletion_Career_Essentials_in_Software_Development_by_Microsoft_and_LinkedIn.pdf)
-
-#### PROGRAMMING LANGUAGES
-
-- [Learning C](assets\img\Certifications\CertificateOfCompletion_Learning_C.pdf)
-- [Learning Java 11](assets\img\Certifications\CertificateOfCompletion_Learning_Java_11.pdf)
-- [Learning Python](assets\img\Certifications\CertificateOfCompletion_Learning_Python.pdf)
-
-#### WEB DEVELOPMENT
-
-- [CSS Essential Training](assets\img\Certifications\CertificateOfCompletion_CSS_Essential_Training.pdf)
+- [Responsive Web Design: HTML and CSS](assets\img\Certifications\CertificateOfCompletion_CSS_Essential_Training.pdf)
 - [HTML Essential Training](assets\img\Certifications\CertificateOfCompletion_HTML_Essential_Training.pdf)
 - [JavaScript Essential Training](assets\img\Certifications\CertificateOfCompletion_JavaScript_Essential_Training.pdf)
 - [Programming Foundations: Beyond the Fundamentals](assets\img\Certifications\CertificateOfCompletion_Programming_Foundations_Beyond_the_Fundamentals.pdf) ##ERROR
