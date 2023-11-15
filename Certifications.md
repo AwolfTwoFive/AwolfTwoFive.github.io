@@ -16,4 +16,4 @@ permalink: certifications
 
 #### OTHER
 
-- [Computer tTechnician](assets/Certificados/Certificado Técnico de Computacion-OakGarelikGrangé.pdf)
+- [Computer Technician](assets/Certificados/Certificado Técnico de Computacion-OakGarelikGrangé.pdf)
