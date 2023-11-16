@@ -14,6 +14,6 @@ permalink: certifications
 
 - [Responsive Web Design: HTML and CSS](assets/Certificados/Certificado ResponsiveWebDesing-OakGarelikGrangé.pdf)
 
-#### OTHER
+### OTHER
 
 - [Computer Technician](assets/Certificados/Certificado Técnico de Computacion-OakGarelikGrangé.pdf)
